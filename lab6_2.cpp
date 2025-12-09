@@ -36,7 +36,6 @@ void showResult(double vec, double di) {
 
     cout << "Direction of the resultant vector (deg) = " << di << endl;
 
-
     cout << "%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%" << endl;
 }
 
